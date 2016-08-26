@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Blender</key>
+	<string>Blender</string>
+	<key>Breadbox</key>
+	<string>Breadbox</string>
+	<key>Coffeematic</key>
+	<string>Coffeematic</string>
+	<key>Mug</key>
+	<string>Mug</string>
+	<key>PieTin</key>
+	<string>PieTin</string>
+	<key>Pitcher</key>
+	<string>Pitcher</string>
+	<key>StandMixer</key>
+	<string>StandMixer</string>
+	<key>Toaster</key>
+	<string>Toaster</string>
+</dict>
+</plist>

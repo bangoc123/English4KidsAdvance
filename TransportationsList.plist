@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Combine Harvester</key>
+	<string>Combine_Harvester</string>
+	<key>Concrete Mixer</key>
+	<string>concretemixer</string>
+	<key>Crane Truck</key>
+	<string>Dodge_Crane_Truck</string>
+	<key>Dump</key>
+	<string>dump</string>
+	<key>Fire Pumper</key>
+	<string>Fire_Pumper</string>
+	<key>Car</key>
+	<string>Ford_Mustang_Fastback</string>
+	<key>Tractor</key>
+	<string>Ford_Tractor</string>
+	<key>Tipper Truck</key>
+	<string>GMC_Tipper_Truck</string>
+	<key>Honda Motor with Trailer</key>
+	<string>Honda_Motorcycle_with_Trailer</string>
+	<key>Racing Car</key>
+	<string>Lotus_Racing_Car</string>
+	<key>Refuse Truck</key>
+	<string>Refuse_Truck</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Address Book</key>
+	<string>Address_Book</string>
+	<key>Bento</key>
+	<string>Bento</string>
+	<key>Cook Book</key>
+	<string>Cook_Book</string>
+	<key>Dictionary</key>
+	<string>Dictionary</string>
+	<key>Font Book</key>
+	<string>Font_Book</string>
+	<key>Gardening Book</key>
+	<string>Gardening_Book</string>
+	<key>Movive Book</key>
+	<string>Movie_Book_Alt</string>
+	<key>Music Book</key>
+	<string>Music_Book</string>
+	<key>Note Book</key>
+	<string>Note_Book</string>
+</dict>
+</plist>
